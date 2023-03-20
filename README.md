@@ -6,15 +6,18 @@ I'm a final year student at the Universirty of Cape Town, studying a dual major 
 - 🔭 I’m currently working on embedded systems
 - 🌱 I’m currently learning computer networks
 - 📫 How to reach me: mavhasa17@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Hi
 
+<br />
 
 ## 📊 Stats
+
 <img align="left" width="47%" src = "https://github-readme-stats-asamavhungu.vercel.app/api?username=asaMavhungu&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" src = "https://github-readme-stats-asamavhungu.vercel.app/api/top-langs/?username=asaMavhungu&layout=compact" />
 
----
+<br />
+
 ## 💻 Languages
 
 * <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python
@@ -32,6 +35,7 @@ I'm a final year student at the Universirty of Cape Town, studying a dual major 
 
 * <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> R
 
+<br />
 
 ## 🧰Tools
 
