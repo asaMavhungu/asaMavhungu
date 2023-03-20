@@ -6,9 +6,7 @@ I'm a final year student at the Universirty of Cape Town, studying a dual major 
 - 🔭 I’m currently working on embedded systems
 - 🌱 I’m currently learning computer networks
 - 📫 How to reach me: mavhasa17@gmail.com
-- 😄 Pronouns: He/Hi
-
-<br />
+- 😄 Pronouns: He/Him
 
 ## 📊 Stats
 
