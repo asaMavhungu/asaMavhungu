@@ -12,7 +12,7 @@ I'm a final year student at the Universirty of Cape Town, studying a dual major 
 
 <img align="left" width="47%" src = "https://github-readme-stats-asamavhungu.vercel.app/api?username=asaMavhungu&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src = "https://github-readme-stats-asamavhungu.vercel.app/api/top-langs/?username=asaMavhungu&layout=compact" />
+<img align="left" width="47%" src = "https://github-readme-stats-asamavhungu.vercel.app/api/top-langs/?username=asaMavhungu&layout=compact&langs_count=6" />
 
 <br />
 
