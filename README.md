@@ -1,6 +1,6 @@
 # Hi there, I'm Asa 👋
 
-I'm a final year student at the Universirty of Cape Town, studying a dual major in Computer Science and Computer Engineering.
+Universirty of Cape Town BSc Graduate (Computer Science and Computer Engineering).
 
 
 - 🔭 I’m currently working on embedded systems
