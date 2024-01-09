@@ -6,6 +6,9 @@ Universirty of Cape Town BSc Graduate (Computer Science and Computer Engineering
 - 🌱 **Currently Learning:** Machine Learning
 - 📫 **How To Reach Me:** mavhasa17@gmail.com
 
+# About me
+I'm an enthusiastic Computer Science graduate with a strong love for computer graphics, data science, artificial intelligence and machine learning, looking to delve into software development and web development.
+
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats-asamavhungu.vercel.app/api/top-langs/?username=asaMavhungu&layout=compact&langs_count=8)
 
